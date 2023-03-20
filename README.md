@@ -9,6 +9,6 @@ Visual Studio 2019 or later
 A Datadog account
 
 
-Make sure replace {DD_API_KEY} with a real API Key 
+Make sure replace {DD_API_KEY} with a real API Key
 Run docker compose up in the main directory 
 
