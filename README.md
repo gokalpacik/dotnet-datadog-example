@@ -1,4 +1,4 @@
-#Datadog Integration with .NET 6
+# Datadog Integration with .NET 6
 Datadog is a popular cloud-based monitoring and analytics platform that helps developers to gain insights into their applications, servers, and databases. In this README file, we will explore how to integrate Datadog with a .NET 6 application.
 
 Prerequisites:
